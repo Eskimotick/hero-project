@@ -1,0 +1,48 @@
+.logo {
+	margin-top: 0.5vw;
+}
+
+#nav-mobile {
+	margin-right: 30vw;
+}
+
+.body {
+	background-image: url("../../../assets/img/layout.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: 0% 4%;
+	background-color: #42a5f5;
+	font-family: "https://fonts.google.com/specimen/PT+Serif";
+}
+
+#click {
+	color: #42a5f5;
+}
+
+#linha1 {
+	margin-top: 97vh;
+}
+
+#card {
+	margin-left: 11.5vw;
+}
+
+#titulo-footer{
+	color: black;
+	text-align: center;
+}
+
+#minusculo {
+	font-size: 12px;
+}
+
+#footer-login {
+	margin-top: 8vh;
+}
+
+#copyright {
+	margin-top: 2vh;
+	font-size: 11px;
+	text-align: center;
+	color: black;
+}

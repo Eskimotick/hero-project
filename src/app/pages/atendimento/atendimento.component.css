@@ -1,0 +1,47 @@
+.logo {
+	margin-top: 0.5vw;
+}
+
+#nav-mobile {
+	margin-right: 30vw;
+}
+
+#orientacao {
+	margin-top: 5vh;
+	text-align: center;
+	font-size: 15px;
+}
+
+#collapsible {
+	margin-top: 5vh;
+	margin-bottom: 5vh;
+}
+
+#radio-buttons {
+	margin-left: 1vw;
+}
+
+#button {
+	margin-top: 1vh;
+	margin-right: 1vw;
+}
+
+#titulo-footer{
+	color: black;
+	text-align: center;
+}
+
+#minusculo {
+	font-size: 12px;
+}
+
+#footer-login {
+	margin-top: 8vh;
+}
+
+#copyright {
+	margin-top: 2vh;
+	font-size: 11px;
+	text-align: center;
+	color: black;
+}
